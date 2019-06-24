@@ -1,0 +1,37 @@
+Entrance examination
+
+Group1
+Alba Hopper;Math=60;Physics=38;English=65
+Harrison Perez;Math=25;Physics=13;English=40
+Regan Walton;Math=12;Physics=35;English=38
+Freya Barnes;Math=86;Physics=45;English=78
+Shantelle Farrow;Math=55;Physics=63;English=86
+Lillie Alfaro;Math=32;Physics=15;English=80
+Gabriele Wall;Math=155;Physics=45;English=64
+Nicky Wickens;Math=13;Physics=13;English=78
+Kathy Foreman;Math=66;Physics=35;English=46
+Rohan Buckner;Math=45;Physics=21;English=68
+
+Group2
+Celeste Blake;Math=98;Physics=45;English=92
+Kristy Mendez;Math=65;Physics=50;English=78
+Cheyenne Almond;Math=87;Physics=34;English=45
+Otto Gregory;Math=32;Physics=32;English=87
+Keiron Owen;Math=45;Physics=4;English=76
+Mehdi Gross;Math=24;Physics=25;English=72
+Mamie Fountain;Math=24;Physics=32;English=43
+Ruben Traynor;Math=13;Physics=16;English=21
+Keeley Derrick;Math=35;Physics=56;English=66
+Piers Perkins;Math=55;Physics=42;English=64
+
+Group3
+Hettie Durham;Math=74;Physics=55;English=46
+Kiyan Shea;Math=32;Physics=42;English=53
+Easton Harvey;Math=15;Physics=23;English=97
+Terri Burnett;Math=2;Physics=12;English=68
+Gareth Fisher;Math=87;Physics=61;English=84
+Fraser Small;Math=32;Physics=37;English=64
+Lukasz Andrews;Math=36;Physics=29;English=44
+Rajveer Watt;Math=52;Physics=50;English=87
+Nabil Greig;Math=78;Physic=49;English=54
+Madina Lee;Math=85;Physics=64;English=99

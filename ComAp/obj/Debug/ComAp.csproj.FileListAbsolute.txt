@@ -1,0 +1,7 @@
+C:\Users\Honza\source\repos\ComAp\ComAp\bin\Debug\ComAp.exe.config
+C:\Users\Honza\source\repos\ComAp\ComAp\bin\Debug\ComAp.exe
+C:\Users\Honza\source\repos\ComAp\ComAp\bin\Debug\ComAp.pdb
+C:\Users\Honza\source\repos\ComAp\ComAp\obj\Debug\ComAp.csprojAssemblyReference.cache
+C:\Users\Honza\source\repos\ComAp\ComAp\obj\Debug\ComAp.csproj.CoreCompileInputs.cache
+C:\Users\Honza\source\repos\ComAp\ComAp\obj\Debug\ComAp.exe
+C:\Users\Honza\source\repos\ComAp\ComAp\obj\Debug\ComAp.pdb

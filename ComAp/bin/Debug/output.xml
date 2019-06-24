@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Group xmlns="1">
+    <Student xmlns="Alba Hopper">
+      <Math>60</Math>
+      <Physics>38</Physics>
+      <English>65</English>
+      <WeightedAverage>53,55</WeightedAverage>
+    </Student>
+    <Student xmlns="Harrison Perez">
+      <Math>25</Math>
+      <Physics>13</Physics>
+      <English>40</English>
+      <WeightedAverage>24,55</WeightedAverage>
+    </Student>
+    <Student xmlns="Regan Walton">
+      <Math>12</Math>
+      <Physics>35</Physics>
+      <English>38</English>
+      <WeightedAverage>26,55</WeightedAverage>
+    </Student>
+    <Student xmlns="Freya Barnes">
+      <Math>86</Math>
+      <Physics>45</Physics>
+      <English>78</English>
+      <WeightedAverage>69,65</WeightedAverage>
+    </Student>
+    <Student xmlns="Shantelle Farrow">
+      <Math>55</Math>
+      <Physics>63</Physics>
+      <English>86</English>
+      <WeightedAverage>65,55</WeightedAverage>
+    </Student>
+    <Student xmlns="Lillie Alfaro">
+      <Math>32</Math>
+      <Physics>15</Physics>
+      <English>80</English>
+      <WeightedAverage>38,05</WeightedAverage>
+    </Student>
+    <Student xmlns="Gabriele Wall">
+      <Math>100</Math>
+      <Physics>45</Physics>
+      <English>64</English>
+      <WeightedAverage>71,75</WeightedAverage>
+    </Student>
+    <Student xmlns="Nicky Wickens">
+      <Math>13</Math>
+      <Physics>13</Physics>
+      <English>78</English>
+      <WeightedAverage>29,25</WeightedAverage>
+    </Student>
+    <Student xmlns="Kathy Foreman">
+      <Math>66</Math>
+      <Physics>35</Physics>
+      <English>46</English>
+      <WeightedAverage>50,15</WeightedAverage>
+    </Student>
+    <Student xmlns="Rohan Buckner">
+      <Math>45</Math>
+      <Physics>21</Physics>
+      <English>68</English>
+      <WeightedAverage>42,35</WeightedAverage>
+    </Student>
+    <MathGroupAverage>49,4</MathGroupAverage>
+    <MathGroupModus>60</MathGroupModus>
+    <MathGroupMedian>50</MathGroupMedian>
+    <PhysicsGroupAverage>32,3</PhysicsGroupAverage>
+    <PhysicsGroupModus>13</PhysicsGroupModus>
+    <PhysicsGroupMedian>35</PhysicsGroupMedian>
+    <EnglishGroupAverage>64,3</EnglishGroupAverage>
+    <EnglishGroupModus>78</EnglishGroupModus>
+    <EnglishGroupMedian>66,5</EnglishGroupMedian>
+  </Group>
+  <Group xmlns="2">
+    <Student xmlns="Celeste Blake">
+      <Math>98</Math>
+      <Physics>45</Physics>
+      <English>92</English>
+      <WeightedAverage>77,95</WeightedAverage>
+    </Student>
+    <Student xmlns="Kristy Mendez">
+      <Math>65</Math>
+      <Physics>50</Physics>
+      <English>78</English>
+      <WeightedAverage>63</WeightedAverage>
+    </Student>
+    <Student xmlns="Cheyenne Almond">
+      <Math>87</Math>
+      <Physics>34</Physics>
+      <English>45</English>
+      <WeightedAverage>57,95</WeightedAverage>
+    </Student>
+    <Student xmlns="Otto Gregory">
+      <Math>32</Math>
+      <Physics>32</Physics>
+      <English>87</English>
+      <WeightedAverage>45,75</WeightedAverage>
+    </Student>
+    <Student xmlns="Keiron Owen">
+      <Math>45</Math>
+      <Physics>4</Physics>
+      <English>76</English>
+      <WeightedAverage>38,4</WeightedAverage>
+    </Student>
+    <Student xmlns="Mehdi Gross">
+      <Math>24</Math>
+      <Physics>25</Physics>
+      <English>72</English>
+      <WeightedAverage>36,35</WeightedAverage>
+    </Student>
+    <Student xmlns="Mamie Fountain">
+      <Math>24</Math>
+      <Physics>32</Physics>
+      <English>43</English>
+      <WeightedAverage>31,55</WeightedAverage>
+    </Student>
+    <Student xmlns="Ruben Traynor">
+      <Math>13</Math>
+      <Physics>16</Physics>
+      <English>21</English>
+      <WeightedAverage>16,05</WeightedAverage>
+    </Student>
+    <Student xmlns="Keeley Derrick">
+      <Math>35</Math>
+      <Physics>56</Physics>
+      <English>66</English>
+      <WeightedAverage>50,1</WeightedAverage>
+    </Student>
+    <Student xmlns="Piers Perkins">
+      <Math>55</Math>
+      <Physics>42</Physics>
+      <English>64</English>
+      <WeightedAverage>52,7</WeightedAverage>
+    </Student>
+    <MathGroupAverage>47,8</MathGroupAverage>
+    <MathGroupModus>24</MathGroupModus>
+    <MathGroupMedian>40</MathGroupMedian>
+    <PhysicsGroupAverage>33,6</PhysicsGroupAverage>
+    <PhysicsGroupModus>32</PhysicsGroupModus>
+    <PhysicsGroupMedian>33</PhysicsGroupMedian>
+    <EnglishGroupAverage>64,4</EnglishGroupAverage>
+    <EnglishGroupModus>92</EnglishGroupModus>
+    <EnglishGroupMedian>69</EnglishGroupMedian>
+  </Group>
+  <Group xmlns="3">
+    <Student xmlns="Hettie Durham">
+      <Math>74</Math>
+      <Physics>55</Physics>
+      <English>46</English>
+      <WeightedAverage>60,35</WeightedAverage>
+    </Student>
+    <Student xmlns="Kiyan Shea">
+      <Math>32</Math>
+      <Physics>42</Physics>
+      <English>53</English>
+      <WeightedAverage>40,75</WeightedAverage>
+    </Student>
+    <Student xmlns="Easton Harvey">
+      <Math>15</Math>
+      <Physics>23</Physics>
+      <English>97</English>
+      <WeightedAverage>38,3</WeightedAverage>
+    </Student>
+    <Student xmlns="Terri Burnett">
+      <Math>2</Math>
+      <Physics>12</Physics>
+      <English>68</English>
+      <WeightedAverage>22</WeightedAverage>
+    </Student>
+    <Student xmlns="Gareth Fisher">
+      <Math>87</Math>
+      <Physics>61</Physics>
+      <English>84</English>
+      <WeightedAverage>77,15</WeightedAverage>
+    </Student>
+    <Student xmlns="Fraser Small">
+      <Math>32</Math>
+      <Physics>37</Physics>
+      <English>64</English>
+      <WeightedAverage>41,75</WeightedAverage>
+    </Student>
+    <Student xmlns="Lukasz Andrews">
+      <Math>36</Math>
+      <Physics>29</Physics>
+      <English>44</English>
+      <WeightedAverage>35,55</WeightedAverage>
+    </Student>
+    <Student xmlns="Rajveer Watt">
+      <Math>52</Math>
+      <Physics>50</Physics>
+      <English>87</English>
+      <WeightedAverage>60,05</WeightedAverage>
+    </Student>
+    <Student xmlns="Nabil Greig">
+      <Math>78</Math>
+      <Physics>49</Physics>
+      <English>54</English>
+      <WeightedAverage>61,85</WeightedAverage>
+    </Student>
+    <Student xmlns="Madina Lee">
+      <Math>85</Math>
+      <Physics>64</Physics>
+      <English>99</English>
+      <WeightedAverage>81,15</WeightedAverage>
+    </Student>
+    <MathGroupAverage>49,3</MathGroupAverage>
+    <MathGroupModus>32</MathGroupModus>
+    <MathGroupMedian>44</MathGroupMedian>
+    <PhysicsGroupAverage>42,2</PhysicsGroupAverage>
+    <PhysicsGroupModus>55</PhysicsGroupModus>
+    <PhysicsGroupMedian>45,5</PhysicsGroupMedian>
+    <EnglishGroupAverage>69,6</EnglishGroupAverage>
+    <EnglishGroupModus>46</EnglishGroupModus>
+    <EnglishGroupMedian>66</EnglishGroupMedian>
+  </Group>
+  <MathAverage>48,8333333333333</MathAverage>
+  <MathModus>32</MathModus>
+  <MathMedian>45</MathMedian>
+  <PhysicsAverage>36,0333333333333</PhysicsAverage>
+  <PhysicsModus>45</PhysicsModus>
+  <PhysicsMedian>36</PhysicsMedian>
+  <EnglishAverage>66,1</EnglishAverage>
+  <EnglishModus>78</EnglishModus>
+  <EnglishMedian>67</EnglishMedian>
+</Students>
